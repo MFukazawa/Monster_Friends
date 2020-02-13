@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Monster_Friends/static/css/main.c49889d9.chunk.css",
-    "main.js": "/Monster_Friends/static/js/main.788905df.chunk.js",
-    "main.js.map": "/Monster_Friends/static/js/main.788905df.chunk.js.map",
+    "main.js": "/Monster_Friends/static/js/main.2f3c5ca8.chunk.js",
+    "main.js.map": "/Monster_Friends/static/js/main.2f3c5ca8.chunk.js.map",
     "runtime-main.js": "/Monster_Friends/static/js/runtime-main.8bd26739.js",
     "runtime-main.js.map": "/Monster_Friends/static/js/runtime-main.8bd26739.js.map",
     "static/css/2.eb45ad44.chunk.css": "/Monster_Friends/static/css/2.eb45ad44.chunk.css",
     "static/js/2.af5ed0d7.chunk.js": "/Monster_Friends/static/js/2.af5ed0d7.chunk.js",
     "static/js/2.af5ed0d7.chunk.js.map": "/Monster_Friends/static/js/2.af5ed0d7.chunk.js.map",
     "index.html": "/Monster_Friends/index.html",
-    "precache-manifest.98ec211731ee81e0c43d07a155a6ac0c.js": "/Monster_Friends/precache-manifest.98ec211731ee81e0c43d07a155a6ac0c.js",
+    "precache-manifest.5ebc8304239d943fd09305776fe39f57.js": "/Monster_Friends/precache-manifest.5ebc8304239d943fd09305776fe39f57.js",
     "service-worker.js": "/Monster_Friends/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/Monster_Friends/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.c49889d9.chunk.css.map": "/Monster_Friends/static/css/main.c49889d9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.af5ed0d7.chunk.js",
     "static/css/main.c49889d9.chunk.css",
-    "static/js/main.788905df.chunk.js"
+    "static/js/main.2f3c5ca8.chunk.js"
   ]
 }

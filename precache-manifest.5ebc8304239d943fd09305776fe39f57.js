@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9dd2e7c531fce76472e56445a414155e",
+    "revision": "0bf4def8e4534134aa902d252c84d2a6",
     "url": "/Monster_Friends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Monster_Friends/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "95e5e5c3af8aed059ec2",
+    "revision": "dae44328496660ea0916",
     "url": "/Monster_Friends/static/css/main.c49889d9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Monster_Friends/static/js/2.af5ed0d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95e5e5c3af8aed059ec2",
-    "url": "/Monster_Friends/static/js/main.788905df.chunk.js"
+    "revision": "dae44328496660ea0916",
+    "url": "/Monster_Friends/static/js/main.2f3c5ca8.chunk.js"
   },
   {
     "revision": "fa507e990323853b2b61",
