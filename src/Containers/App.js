@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import CardList from '../Components/CardList';
 import Searchbox from '../Components/Searchbox';
 import Scroll from '../Components/Scroll';
-import './App.css';;
+import './App.css';
 
 
 class App extends Component {
